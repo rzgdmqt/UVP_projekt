@@ -17,8 +17,8 @@ saj je sicer treba spremeniti nastavitve v google računu, česar ne pričakujem
 da bi poizkušal zaobiti njihove varnostne ukrepe (gotovo mi tudi ne bi uspelo). Ta račun pa je namenjen izključno
 eksperimentiranju.
 
-Če računa ne želite uporabljati, v tekstovno datoteko imena_gesla.txt navedite "ime geslo" in tako se boste lahko
-prijavili s tem imenom in geslom. Sporočil v tem primeru ne boste morali poslati, lahko pa jih boste vseeno shranili.
+Če računa ne želite uporabljati, v tekstovno datoteko imena_gesla.txt navedite "ime, geslo" in tako se boste lahko
+prijavili s tem imenom in geslom. Sporočil v tem primeru ne boste mogli pošiljati, lahko pa jih boste vseeno shranili.
 """
 
 
